@@ -1,1 +1,6 @@
 # Tamil-Cuisine-Analysis
+Tamil Cuisine Analysis is a research project focused on analyzing authentic Tamil cuisine recipes. One of the main challenges of this project was the lack of a comprehensive dataset on Tamil cuisine, which led to the creation of a dedicated dataset of Tamil recipes. The dataset was pre-processed using natural language processing techniques to enable further analysis.
+
+Exploratory Data Analysis (EDA) was performed on the dataset to analyze the healthy and flavorful dishes within Tamil cuisine. Feature engineering was then used to select calorie-based dishes, allowing for a better understanding of the usage of each dish within the cuisine. Had built the Decision tree classifier model and was used to classify the best Tamil recipe based on dietary and nutritional information. This classification was an optimized result of Tamil Cuisine Analysis, allowing for a better understanding of the cuisine's dietary and nutrition values such as calories, fat, protein, and carbohydrates. 
+
+In summary, the Tamil Cuisine Analysis project provides a comprehensive dataset, analysis, and classification of Tamil cuisine recipes that can be used by researchers, chefs, and food enthusiasts to gain a better understanding of the cuisine's nutritional and dietary values.
